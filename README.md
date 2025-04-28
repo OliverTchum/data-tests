@@ -33,7 +33,7 @@ D. $\frac{\sigma^2}{N}$ (where $N$ is the number of observations)
 E. This cannot be determined with a single observation.
 
 
-**Q2. Suppose we have $N$ independent and identically distributed i.i.d. samples $x[n] \sim N(A, \sigma^2)$ for $n = 0, 1, ..., N-1$, where $A$ is an unknown DC level and $\sigma^2$ is known. The Maximum Likelihood Estimate of $A$ is $$\hat{A}_{MLE} = \frac{1}{N} \sum_{n=0}^{N-1} x[n]$$. What is the variance of this MLE? [5 marks]**
+**Q2. Suppose we have $N$ independent and identically distributed i.i.d. samples $x[n] \sim N(A, \sigma^2)$ for $n = 0, 1, ..., N-1$, where $A$ is an unknown DC level and $\sigma^2$ is known. The Maximum Likelihood Estimate of $A$ is $\hat{A}_{MLE} = \frac{1}{N} \sum_{n=0}^{N-1} x[n]$. What is the variance of this MLE? [5 marks]**
 
 A. $\sigma^2$
 
